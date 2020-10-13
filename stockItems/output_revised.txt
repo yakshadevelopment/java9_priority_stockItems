@@ -1,2 +1,2 @@
 
-testMain=true
+testCollectAllItems=true
